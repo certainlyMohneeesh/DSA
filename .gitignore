@@ -1,0 +1,22 @@
+# Ignore executables and build artifacts
+*.exe
+*.o
+*.out
+*.obj
+*.class
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore PDF notes
+Notes/*.pdf
