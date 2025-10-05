@@ -4,14 +4,6 @@ Hey there, fellow code warriors! 👋 Welcome to my **Data Structures & Algorith
 
 I'm **Mohneesh Naidu** (aka **Cyth**), a 22-year-old wannabe cook turned software developer from India 🇮🇳. By day, I'm the Tech Lead at MachaCo.store, orchestrating e-commerce magic. By night, I'm slaying DSA dragons and building cool stuff like CRMs and crop disease predictors. Outside of code, I'm a wannabe cook whipping up experimental dishes and a music lover jamming to eclectic beats. Check out my [portfolio](https://cythical.cyth.me/) for more shenanigans!
 
-## 💼 Work Experience
-**Tech Lead at MachaCo.store** (Present) 🛒  
-- Orchestrated the tech symphony for a budding e-commerce star, making sure the platform scales like a pro wrestler. 💪  
-- Built and launched a Next.js powerhouse with analytics that turn data into decisions faster than you can say "ROI." 📊  
-- Dived into R&D and strategy, blending tech magic with business wizardry for unstoppable growth. 🧙‍♂️  
-- Crafted cloud pipelines that are secure, reliable, and budget-friendly – because who likes surprise bills? 💸  
-- Teamed up with marketing mavens, logistics legends, and CX champs to weave features into the product roadmap. 🤝
-
 This repo chronicles my journey through the wild world of algorithms. Think of it as my digital scrapbook of triumphs, facepalms, and "aha!" moments. Let's dive in! 🌊
 
 ## 📂 Repository Structure
