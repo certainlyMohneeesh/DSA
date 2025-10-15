@@ -5,13 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug stacks.cpp",
+            "name": "Debug C++ (Active File)",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Stacks & Queues/stacks",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}/Stacks & Queues",
+            "cwd": "${fileDirname}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
