@@ -39,16 +39,19 @@ class Stack{
         else {cout << "Stack is empty" << endl;
         return -1;
         }
-        
+         
     }
 
 
     bool isEmpty(){
         if (top == -1) {
-        return true;
-        cout << "Stack is empty" << endl;
-    }
-        else return false;
+            cout << "Stack is Empty" << endl;
+            return true;
+        }
+        else {
+            cout << "Stack is not Empty" << endl;
+            return false;
+        }
     }
 
 };
